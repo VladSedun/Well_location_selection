@@ -1,4 +1,4 @@
-#Выбор локации для скважины
+# Выбор локации для скважины
 <h1>Содержание<span class="tocSkip"></span></h1>
 <div class="toc"><ul class="toc-item"><li><span><a href="#Выбор-локации-для-скважины" data-toc-modified-id="Выбор-локации-для-скважины-1"><span class="toc-item-num">1&nbsp;&nbsp;</span>Выбор локации для скважины</a></span><ul class="toc-item"><li><span><a href="#Описание-проекта" data-toc-modified-id="Описание-проекта-1.1"><span class="toc-item-num">1.1&nbsp;&nbsp;</span>Описание проекта</a></span></li><li><span><a href="#Описание-данных" data-toc-modified-id="Описание-данных-1.2"><span class="toc-item-num">1.2&nbsp;&nbsp;</span>Описание данных</a></span></li><li><span><a href="#Условия-задачи" data-toc-modified-id="Условия-задачи-1.3"><span class="toc-item-num">1.3&nbsp;&nbsp;</span>Условия задачи</a></span></li><li><span><a href="#Вывод" data-toc-modified-id="Вывод-1.4"><span class="toc-item-num">1.4&nbsp;&nbsp;</span>Вывод</a></span></li></ul></li></ul></div>
 
